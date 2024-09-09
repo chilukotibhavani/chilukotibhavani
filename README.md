@@ -1,5 +1,4 @@
 # Bhavani Chilukoti
-Config files for my GitHub profile.
 
 ## 👋 About Me
 - Software Engineer Intern at Wisework, a metaverse company in Bangalore.
