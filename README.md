@@ -69,3 +69,89 @@
 </p>
 
 <p align="center">⭐️ From <a href="https://github.com/chilukotibhavani">chilukotibhavani</a></p>
+
+
+
+
+
+
+
+
+<div align="center">
+  
+# Bhavani Chilukoti
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Software+Engineer+Intern;Metaverse+Enthusiast;Continuous+Learner)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/bhavani-chilukoti-80124a293/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/chilukotibhavani">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:bhavanichilukoti43@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h2>🚀 Quick Overview</h2>
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer%20Intern-brightgreen?style=flat-square" alt="Role"/>
+  <img src="https://img.shields.io/badge/Company-Wisework-blue?style=flat-square" alt="Company"/>
+  <img src="https://img.shields.io/badge/Location-Bangalore-orange?style=flat-square" alt="Location"/>
+</div>
+
+---
+
+<div align="center">
+  <h2>💼 Experience</h2>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Wisework-Intern-blueviolet?style=for-the-badge" alt="Wisework"/>
+      <br/>
+      <sub><b>Software Engineer Intern</b></sub>
+      <br/>
+      <sub>• Metaverse Technologies</sub>
+      <br/>
+      <sub>• C#, ASP.NET, Blazor</sub>
+      <br/>
+      <sub>• Innovative Digital Projects</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+</div>
+
+<div align="center">
+
+| Languages | Frameworks/Libraries | Tools |
+|-----------|----------------------|-------|
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) ![Mudblazor](https://img.shields.io/badge/Mudblazor-3280C9?style=flat-square&logo=blazor&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
+</div>
+
+---
+
+<div align="center">
+  <h2>🎯 Current Focus</h2>
+</div>
+
+<div align="center">
+
+| Metaverse Development | Web Technologies | Open Source |
+|:---------------------:|:-----------------:|:-----------:|
+| 🌐 | 💻 | 🔓 |
+
+</div>
