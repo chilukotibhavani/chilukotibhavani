@@ -23,7 +23,6 @@
 ⭐️ From [chilukotibhavani](https://github.com/chilukotibhavani)
 
 
-
 <h1 align="center">Bhavani Chilukoti</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Software%20Engineer%20Intern-brightgreen" alt="Role"/>
@@ -74,6 +73,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chilukotibhavani&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  "The only way to do great work is to love what you do." - Steve Jobs
 </p>
 <p align="center">⭐️ From <a href="https://github.com/chilukotibhavani">chilukotibhavani</a></p>
