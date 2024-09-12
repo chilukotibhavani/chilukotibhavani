@@ -10,15 +10,14 @@
 
 </div>
 
----
-
-## 🚀 Quick Overview
-
-<div align="center">
-
-**Software Engineer Intern** at **Wisework** | **Bangalore**
 
 </div>
+
+---
+
+## 👋 About Me
+- Software Engineer Intern at Wisework, a metaverse company in Bangalore.
+- Passionate about harnessing technology to create innovative solutions.
 
 ---
 
@@ -29,9 +28,9 @@
 ### Wisework
 **Software Engineer Intern**
 
-- Metaverse Technologies
-- C#, ASP.NET, Blazor
-- Innovative Digital Projects
+• Metaverse Technologies
+• C#, ASP.NET, Blazor
+• Innovative Digital Projects
 
 </div>
 
@@ -65,6 +64,7 @@
   <tr>
     <td><b>Git</b></td>
     <td><b>VS Code</b></td>
+    <td><b>Visual Studio</td>
   </tr>
 </table>
 
@@ -72,10 +72,5 @@
 
 ---
 
-## 🎯 Current Focus
+⭐️ From [chilukotibhavani](https://github.com/chilukotibhavani)
 
-<div align="center">
-
-**Metaverse Development** | **Web Technologies** | **Open Source**
-
-</div>
