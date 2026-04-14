@@ -26,7 +26,7 @@
 <details>
 <summary><b>Wisework</b></summary>
 
-**Role:** Software Engineer Intern
+**Role:** Associate Software Engineer
 **Technologies:** C#, ASP.NET, Blazor
 **Focus:** Innovative Digital Projects in Metaverse Technologies
 
