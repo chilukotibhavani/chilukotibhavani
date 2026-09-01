@@ -16,7 +16,7 @@
 > 🚀 Passionate about technology and always eager to learn new things
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1W6X_WFlmCdk3QGyGoCEBTKV7Zxb526JH/view">
+  <a href="https://drive.google.com/file/d/1sUV6qbU6OrtUEp3T9wi4DPouzu8Thore/view?usp=sharing">
     <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="View Resume">
   </a>
 </div>
